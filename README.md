@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 📫 How to reach me: https://www.linkedin.com/in/harenafitia-dk or +261343681045 or harenafitia2000@gmail.com
 
 <!--
 **harenafitia/harenafitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
